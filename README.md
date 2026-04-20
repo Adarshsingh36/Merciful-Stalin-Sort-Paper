@@ -1,9 +1,4 @@
-Sure! Here’s an alternative, more professional and academic-style `README.md` that suits a GitHub repo for a research or educational project like your Stalin Sort paper:
-
----
-
-```markdown
-# Stalin Sort: A Comparative Study
+## Stalin Sort: A Comparative Study
 
 ## 📘 About the Project
 
